@@ -1,0 +1,11 @@
+Q.3 Differentiate between HTML Tags and Elements?
+
+Ans :
+    HTML tags :
+        1. An HTML tag is an entity in which we put our data to show on browser interface.
+        2. It comes in pair opening and closing tags. Ex : <span> </span>,  <nav> </nav>
+        3. Some are self closing tags. Ex: <hr> , <br>, etc.
+
+    HTML Elements :
+        1. The whole structure comes up including HTML tag and webcontent in it is called as an HTML element.
+        2. It will always hold content in it and attributes required.

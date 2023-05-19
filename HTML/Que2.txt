@@ -1,0 +1,15 @@
+Q.2 Explain Semantic tags in html? And why do we need it?
+
+Ans : Explaination :-
+      ------------
+    The semantic tags helps the search engine and other user devices to determine the importance of webpage content.
+    It has great importance in terms of accessibility.
+    Pages developed with semantic tags are much easier to read.
+
+    Reason :-
+    ------
+    Before semantics came we used to use elements like `<div></div>` and give them class or id of specific working.
+    Like <div class="header"> Header </div>.
+    So tag dosen't describe its functionalities at first look or from its name.
+    It may create confusion to find out specific code block and becomes a hectic task.
+    So, we need semantics to gain effective code, greater accessibility and great user experience.

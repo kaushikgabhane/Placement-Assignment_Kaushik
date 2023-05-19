@@ -1,0 +1,7 @@
+ Q.1 <!DOCTYPE html> is it a tag of html? If not, what is it and why do we use it? 
+
+Ans :
+    No. <!DOCTYPE html> is not a tag of html. 
+    It is a tag that provides information about version of html document to the browser.
+    It is called Document Type Declaration.
+    It is not a case sensitive and above <!DOCTYPE html> given in question represents HTML5 . 
