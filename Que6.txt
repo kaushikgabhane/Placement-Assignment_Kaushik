@@ -1,0 +1,12 @@
+Q.6 What are some of the advantages of HsTML5 over its previous versions?
+
+Ans : These are the major advantages of HTML5 over its previous versions,
+        1. It has improved accessibility of websites to a greate extent. As tags like <section>, <article>, <header>, <footer> are easy  to read and understand by screen readers.
+        
+        2. In previous versions using audio,video elements meant using third party media players. But in HTML5 it introduced <audio> and <video> elements which allows to add multi-media without any glitch.
+        
+        3. It also introduced local storage which is again a game changer and cookies are no longer needed.
+
+        4. HTML5 also supports custome data attributes, which was risky before.
+
+        5. It also adds autofocus to form fields and script and link tags no longer require type attribute.
