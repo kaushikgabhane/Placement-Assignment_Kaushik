@@ -73,7 +73,7 @@ body{
 }
 
 .img{
-    height: 30vh;
+    height: 35vh;
     width: 20vw;
     background-color: #e9c26d;
     display: flex;
@@ -83,7 +83,7 @@ body{
 
 .img-container{
     display: flex;
-    gap: 20px;
+    gap: 22px;
     position: relative;
     top: 10vh;
 }
