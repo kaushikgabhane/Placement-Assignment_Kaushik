@@ -1,0 +1,101 @@
+body{
+    padding: 0px;
+    margin: 0%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin: 25px;
+}
+
+.header{
+    max-width: 100%;
+    max-height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header > .left{
+    height: 150px;
+    width: 40%;
+    background-color: #4099e2;
+}
+
+header > .right{
+    height: 150px;
+    width: 55%;
+    background-color: #b4b5b6;
+}
+
+.hero-section{
+    height: 350px;
+    width: 100%;
+    background-color: grey;
+    margin-block: 20px;
+}
+
+.card-container{
+    height: max-content;
+    width: screen;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+    background-color: #b0f1f1;
+}
+
+.last-section{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(202, 202, 202);
+    margin-block: 20px;
+}
+
+@media screen and (max-width : 500px ) {
+    .card-container{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .card{
+        height: 200px;
+        width: 100%;
+        background-color: #b0f1f1;
+    }
+}
+
+@media screen and (max-width : 768px ) {
+    
+    .card{
+        height: 200px;
+        width: 100%;
+        background-color: #b0f1f1;
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width : 1024px ) {
+    
+    .card{
+        height: 300px;
+        width: 100%;
+        background-color: #b0f1f1;
+    }
+}
+
+@media screen and (max-width : 1440px ) {
+    
+    .card{
+        height: 400px;
+        width: 100%;
+        background-color: #b0f1f1;
+    }
+}
+
