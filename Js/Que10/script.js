@@ -12,7 +12,10 @@ const debounce = function (fn,delay){
             args = arguments;
         
         clearTimeout(timer);
+        
         timer = setTimeout(()=>{
+            // The fn.apply(context, args) line invokes the original function (fn) with the same context (this) and arguments (args) that were passed to the debounced function.
+
             fn.apply(context,args);
         },delay);
     }
